@@ -1,4 +1,4 @@
- Python script to automate adding a new host with templates via Opsview API.
+Python script to automate adding a new host with templates via Opsview API.
 =========================================
 
 I wrote this script two years ago, and then updated it on year ago or so ... I'm not sure who is still using Opsview, but at least it's here if any one need it.
